@@ -33,15 +33,14 @@ Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joceljunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
  
+### 📲 Contacts
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/joceljunior)](https://github.com/joceljunior)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jocel-junior-36507a16b/)](https://www.linkedin.com/in/jocel-junior-36507a16b/)
+[![Gmail Badge](https://img.shields.io/badge/-jocel.junior.silva@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jocel.junior.silva@gmail.com)](mailto:bieluczyk1998@gmail.com)
+ 
  ### 🎶 Music
   <div style="display: inline_block"><br>
      <a href="https://open.spotify.com/user/224hudms3wcwuxtwcn5kpc3ti?si=823affdb3c62428d">
       <img align="center" alt="Jocel-Flutter" height="30" width="100" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
      </a>
   </div>
- 
-#### Where to find me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/joceljunior)](https://github.com/joceljunior)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jocel-junior-36507a16b/)](https://www.linkedin.com/in/jocel-junior-36507a16b/)
-[![Gmail Badge](https://img.shields.io/badge/-jocel.junior.silva@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jocel.junior.silva@gmail.com)](mailto:bieluczyk1998@gmail.com)
