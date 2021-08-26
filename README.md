@@ -40,10 +40,8 @@ Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
      </a>
   </div>
  
-  ### 📳 Contact
-  <div style="display: inline_block"><br>
-   [![Gmail Badge](https://img.shields.io/badge/-jocel.junior.silva@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jocel.junior.silva@gmail.com)](mailto:jocel.junior.silva@gmail.com)
-   
-   <img align="center" alt="Jocel-Flutter" height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-   jocel.junior.silva@gmail.com
-  </div>
+#### Where to find me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/joceljunior)](https://github.com/joceljunior)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jocel-junior-36507a16b/)](https://www.linkedin.com/in/jocel-junior-36507a16b/)
+[![Gmail Badge](https://img.shields.io/badge/-jocel.junior.silva@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jocel.junior.silva@gmail.com)](mailto:bieluczyk1998@gmail.com)
