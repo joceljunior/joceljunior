@@ -1,4 +1,4 @@
-##Prazer, me chamo Jocel Junior
+## Prazer, me chamo Jocel Junior
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -9,3 +9,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ <div>
+  <a href="https://github.com/joceljunior">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joceljunior&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joceljunior&layout=compact&langs_count=7&theme=dracula"/>
+</div>
