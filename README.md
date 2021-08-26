@@ -37,6 +37,7 @@ Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/joceljunior)](https://github.com/joceljunior)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jocel-junior-36507a16b/)](https://www.linkedin.com/in/jocel-junior-36507a16b/)
 [![Gmail Badge](https://img.shields.io/badge/-jocel.junior.silva@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jocel.junior.silva@gmail.com)](mailto:bieluczyk1998@gmail.com)
- <a href="https://discord.gg/joceljunior#0872" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://api.whatsapp.com/send?phone=5551998102289" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/joceljunior/joceljunior/blob/output/github-contribution-grid-snake.svg)
