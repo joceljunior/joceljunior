@@ -1,3 +1,4 @@
+<link rel = "stylesheet" href = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
 ## Prazer, me chamo Jocel Junior
 
 - 🔭 I’m currently working on ...
@@ -17,7 +18,7 @@
 </div>
 
  <div style="display: inline_block"><br>
-  <img align="center" alt="Jocel-Dart" height="30" width="40" src="	https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img align="center" alt="Jocel-Dart" height="30" width="40" class="devicon-android-plain colori">
   <img align="center" alt="Jocel-Flutter" height="30" width="40" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Jocel-Xamarin" height="30" width="40" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
   <img align="center" alt="Jocel-Csharp" height="30" width="40" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
