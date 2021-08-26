@@ -1,5 +1,5 @@
 
-## Prazer, me chamo Jocel Junior!  <img align="center" alt="Jocel-Android" height="100" width="100" src="https://media4.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=ecf05e47e7xeujk68ho0w8e9etcwc3r71jl0tftb0vm4jdpn&rid=giphy.gif&ct=g">
+## Prazer, me chamo Jocel Junior!  <img align="center" alt="Jocel-Android" height="100" width="200" src="https://media4.giphy.com/media/E89xxATM4iZoPdr6Tb/giphy.gif?cid=ecf05e47e7xeujk68ho0w8e9etcwc3r71jl0tftb0vm4jdpn&rid=giphy.gif&ct=g">
 
 Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
 É sempre bom falar que na área de TI existe uma constante evolução, e procuro sempre estudar novas tecnologias, pois é algo que faz parte da rotina de alguém apaixonado pelo universo da inovação. Atualmente tenho focado no mobile, estudando e desenvolvendo projetos utilizando Flutter.
