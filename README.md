@@ -36,6 +36,6 @@ Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
  ### 🎶 Music
   <div style="display: inline_block"><br>
      <a href="https://open.spotify.com/user/224hudms3wcwuxtwcn5kpc3ti?si=823affdb3c62428d">
-      <img align="center" alt="Jocel-Flutter" height="30" width="50" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+      <img align="center" alt="Jocel-Flutter" height="30" width="100" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
      </a>
   </div>
