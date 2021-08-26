@@ -1,22 +1,17 @@
 
-## Prazer, me chamo Jocel Junior
+## Prazer, me chamo Jocel Junior!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 
+- 👯
  <div>
   <a href="https://github.com/joceljunior">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joceljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joceljunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+ ### 🔭 Skills
  <div style="display: inline_block"><br>
   <img align="center" alt="Jocel-Flutter" height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Jocel-Xamarin" height="30" width="80" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
