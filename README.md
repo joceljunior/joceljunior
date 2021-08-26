@@ -16,7 +16,7 @@ Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
  ### 🔭 Skills
  <div style="display: inline_block"><br>
   <img align="center" alt="Jocel-Flutter" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
- <img align="center" alt="Jocel-Flutter" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+  <img align="center" alt="Jocel-Flutter" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
   <img align="center" alt="Jocel-Xamarin" height="30" width="80" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
   <img align="center" alt="Jocel-Csharp" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
   <img align="center" alt="Jocel-.net" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
@@ -32,3 +32,10 @@ Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joceljunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joceljunior&layout=compact&langs_count=7&theme=dark"/>
 </div>
+ 
+ ### 🎶 Music
+  <div style="display: inline_block"><br>
+     <a href="https://open.spotify.com/user/224hudms3wcwuxtwcn5kpc3ti?si=823affdb3c62428d">
+      <img align="center" alt="Jocel-Flutter" height="30" width="50" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+     </a>
+  </div>
