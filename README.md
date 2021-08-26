@@ -5,11 +5,11 @@ Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
 É sempre bom falar que na área de TI existe uma constante evolução, e procuro sempre estudar novas tecnologias, pois é algo que faz parte da rotina de alguém apaixonado pelo universo da inovação.
 
 
-27 anos.
-Flutter Developer
-Numeria Informática
+-> 27 anos.
+ - Flutter Developer
+ - Numeria Informática
  
- - Segue algumas tecnologias que conheço
+
  ### 🔭 Skills
  <div style="display: inline_block"><br>
   <img align="center" alt="Jocel-Flutter" height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
