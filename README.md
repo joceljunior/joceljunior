@@ -2,17 +2,17 @@
 ## Prazer, me chamo Jocel Junior!
 
 Aqui você vai encontrar algumas coisas relacionadas à minha carreira.
-É sempre bom falar que na área de TI existe uma constante evolução, e procuro sempre estudar novas tecnologias, pois é algo que faz parte da rotina de alguém apaixonado pelo universo da inovação.
+É sempre bom falar que na área de TI existe uma constante evolução, e procuro sempre estudar novas tecnologias, pois é algo que faz parte da rotina de alguém apaixonado pelo universo da inovação. Atualmente tenho focado no mobile, estudando e desenvolvendo projetos utilizando Flutter.
+<img align="center" alt="Jocel-Flutter" height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 
-
--> 27 anos.
+ - 27 anos.
  - Flutter Developer
  - Numeria Informática
  
 
  ### 🔭 Skills
  <div style="display: inline_block"><br>
-  <img align="center" alt="Jocel-Flutter" height="30" width="80" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="Jocel-Flutter" height="30" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/coffeescript/coffeescript-original.svg">
   <img align="center" alt="Jocel-Xamarin" height="30" width="80" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white">
   <img align="center" alt="Jocel-Csharp" height="30" width="80" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   <img align="center" alt="Jocel-.net" height="30" width="80" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
